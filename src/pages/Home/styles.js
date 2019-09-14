@@ -33,6 +33,7 @@ export const ProductList = styled.ul`
     }
 
     button {
+      border: none;
       background: #7159c1;
       color: #fff;
       order: 0;
